@@ -29,5 +29,4 @@ Once defined you'll need to refresh state:
 terraform init
 ```
 
-If you don't get an error that your S3 bucket name is already in use then
-you login to AWS to confirm bucket creation.
+If you don't get an error that your S3 bucket name is already in use then login to AWS to confirm bucket creation.
